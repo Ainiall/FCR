@@ -1,0 +1,4 @@
+﻿  Assembling Assembly-code.asm...
+  Teamwork.cpp
+D:\APUNTES\---SUBIR A GITHUB---\FCR\parte1\Teamwork\Teamwork.cpp(56,15): warning C4101: 'resultado': variable local sin referencia
+  Teamwork.vcxproj -> D:\APUNTES\---SUBIR A GITHUB---\FCR\parte1\Teamwork\Debug\Teamwork.exe
